@@ -1,16 +1,34 @@
-# React + Vite
+# RentEd 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A campus-based platform that enables students to borrow and lend items in real-time.
 
-Currently, two official plugins are available:
+## 🧠 Problem
+Students often forget or urgently need items (calculators, lab coats, chargers) but cannot access them quickly within campus.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 💡 Solution
+RentEd connects students within the same campus to:
+- Borrow items instantly
+- Rent out unused items
+- Build a trusted sharing ecosystem
 
-## React Compiler
+## ✨ Features
+- College email-based login
+- Borrow items from other students
+- Rent out items easily
+- Search functionality
+- Clean and responsive UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
+- React (Vite)
+- JavaScript
+- CSS
 
-## Expanding the ESLint configuration
+## 🚧 Status
+Frontend completed (in progress improvements)  
+Backend integration coming soon
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Future Plans
+- Payment integration
+- Trust score system
+- Location-based pickup system
+- Real-time request handling
